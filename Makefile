@@ -1,4 +1,4 @@
-all : baysick run
+all : baysick
 
 baysick :
 	scalac -cp baysick Baysick.scala
